@@ -154,6 +154,7 @@ public class StudentDeo implements StudentDeoInterface{
                         "Clg name: " + rs.getString(3) + "\n" +
                         "City: " + rs.getString(4) + "\n" +
                         "Percentage: " + rs.getDouble(5));
+                System.out.println("--------------------------");
 
             }
 
